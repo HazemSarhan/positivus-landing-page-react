@@ -15,7 +15,7 @@
   <p align="center">
     Professional Business Landing Page Made By React 19 and Tailwind CSS V4.
     <br />
-    <a href="https://positivus-landing-page-react-seven.vercel.app/"><strong>Live Demo »</strong></a>
+    <a href="https://positivus-landing-page-react.vercel.app/"><strong>Live Demo »</strong></a>
     <br />
     <br />
     <a href="https://github.com/HazemSarhan/positivus-landing-page-react/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
